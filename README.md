@@ -1,4 +1,4 @@
-\# Streamlit を用いてメッセージ表示
+\# Streamlit を用いてYOLO26物体検出
 
 
 
@@ -14,5 +14,5 @@
 
 
 
-\[メッセージ表示](https://https://stfilter-npbcihwsx9cgkya4mbflsh.streamlit.app/)
+\[YOLO26物体検出](https://stdetect-mtyeb5dwf68ec8ndtx7ubb.streamlit.app/)
 
